@@ -7,7 +7,7 @@ Il n'y a rien à installer ! Pour consulter l'article sur votre ordinateur :
 Clonez ce dépôt :
 
 Bash
-git clone https://github.com/[ton-nom-utilisateur]/[nom-du-repo].git
+git clone https://github.com/Froumage/projet-contr-le-de-version.git
 Ouvrez le dossier du projet.
 
 Double-cliquez sur le fichier index.html pour l'ouvrir dans votre navigateur.
